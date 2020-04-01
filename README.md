@@ -19,15 +19,10 @@
 大致的步骤如下：
 
 1. Fork 本仓库
-
 2. 按照 json 格式修改 `linkData.pals.json` 里的数据
-
    - 如果你也是 gay（同性恋），可以把数据放在 `linkData.homo.json` 内
-
    - 在 `linkData.rbq.json` 内的友链都是我自己挑选出来的，直接修改这个通常不会通过
-
    - 大致的格式是：
-
      ```json
      {
        "name": "站点名称", 
@@ -36,11 +31,8 @@
        "des": "站点介绍"
      }
      ```
-
 3. 修改完毕后，创建一个新的 Pull Requests
-
 4. 我看到后，根据情况决定是否 Merge
-
 5. 在这之前，可以的话，请先将本站的友链加上~
 
 ## 本站信息
@@ -61,4 +53,9 @@
 - 尊重版权，使用的主题有保留版权信息，转载文章有保留原作者地址
 - 内容合法，不涉黄涉政
 - 对 LGBTQIA 群体保持尊重
+- 要经常互访
 - 最好是我比较眼熟的人啦~
+
+---
+
+Copyright &copy; 2020 Eltrac Koalar, All rights reserved, inspired by [SukkaW/Friends](https://github.com/SukkaW/Friends).
