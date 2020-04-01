@@ -1,6 +1,6 @@
 # 👬 Eltrac's Friends
 
-![](https://img.shields.io/badge/Eltrac's%20Friends-forever-brightgreen?style=flat-square)![](https://img.shields.io/badge/filled%20with-♥-ff69b4?style=flat-square)
+![](https://img.shields.io/badge/Eltrac's%20Friends-forever-brightgreen?style=flat-square) ![](https://img.shields.io/badge/filled%20with-♥-ff69b4?style=flat-square)
 
 这里是 Eltrac 的朋友们，Eltrac 博客的友情链接数据都储存在这里。
 
