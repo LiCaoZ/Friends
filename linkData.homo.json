@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sakitami",
+	"link": "https://blog.skihome.xyz/",
+	"avatar": "https://blog.skihome.xyz/uploads/avatar.jpg",
+	"des": "这个是我男朋友！"
+  },
+  {
+    "name": "白熊阿丸",
+	"link": "https://www.bxaw.name/",
+	"avatar": "https://secure.gravatar.com/avatar/21531185e8296f70da566b68d3fc9785?s=400",
+	"des": "这里会有很多可爱的东西"
+  },
+  {
+    "name": "LifeAlsoIsGG",
+	"link": "https://blog.lifeisgg.online",
+	"avatar": "https://secure.gravatar.com/avatar/ef835bcc38647ca3feba453470b71bb9",
+	"des": "Life Also is a Good Game."
+  },
+  {
+    "name": "LiCEO",
+	"link": "https://lsc.moe/",
+	"avatar": "https://image.lsc.moe/blog/about/1.jpg",
+	"des": "李总！大佬！抱住！"
+  },
+  {
+    "name": "小太",
+	"link": "https://713.moe/",
+	"avatar": "https://gravatar.loli.net/avatar/ad5babe8213864d97007267d9e130291?s=640",
+	"des": "小太！可爱！抱住！"
+  }
+]
