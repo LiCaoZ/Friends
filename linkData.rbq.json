@@ -132,9 +132,27 @@
 	"des": "貌似是个无名小站"
   },
   {
+    "name": "⑨BIE",
+    "link": "https://9bie.org/",
+    "avatar": "https://cdn.v2ex.com/gravatar/c004f07e4aeea5ada1cc18fa390f6e09?s=200&r=X&d=",
+    "des": "是个有思想的大佬呢"
+  }
+  {
     "name": "柴可可",
     "link": "https://o0o0o0.cn/",
     "avatar": "https://secure.gravatar.com/avatar/762085ba7c69ce3d315d281913fd6124?s=100&d=mm&r=g",
     "des": "是一不小心被我丢掉的老朋友 qwq"
+  },
+  {
+    "name": "Angelic47",
+	"link": "https://www.angelic47.com",
+	"avatar": "https://cdn.v2ex.com/gravatar/af12f24d493e12b714cb70f3c7b3662e?s=500&r=X&d=",
+	"des": "愿为少女，永存初心"
+  },
+{
+    "name": "奶油话梅糖",
+	"link": "https://naiyouhuameitang.club/",
+	"avatar": "https://cdn.v2ex.com/gravatar/4da313ae7501a2b86f9d952c11ea5699?s=220&r=X&d=mm",
+	"des": "最後どうして私だけが"
   }
 ]
