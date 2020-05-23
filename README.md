@@ -39,7 +39,7 @@
 
 - 名字（name）：Eltrac / Eltrac's Track / 可乐 / 阔落（也可以随意写啦）
 - 地址（link）：https://guhub.cn
-- 头像（avatar）：https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpeg 或者 https://cdn.jsdelivr.net/gh/BigCoke233/Friends/src/guhub.cn.jpeg
+- 头像（avatar）：https://cdn.jsdelivr.net/gh/BigCoke233/image-hosting/avatars/avatar.jpg
 - 介绍（des）：暗夜行路，终遇奇迹（你也可以按照你对我的印象写）
 
 ## 换链条件
