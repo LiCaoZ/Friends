@@ -160,5 +160,17 @@
 	"link": "https://ghos.in",
 	"avatar": "https://gravatar.loli.net/avatar/2e7ee4285fc617220b028dc409ae08fd?s=300",
 	"des": "🤔那么问题来了"
+  },
+  {
+    "name": "ChrAlpha",
+    "link": "https://ichr.me",
+    "avatar": "https://cdn.jsdelivr.net/npm/chrdnx@1.0.10/img/head-found.png",
+    "des": "愿自己同样值得期待！"
+  },
+  {
+    "name": "冰沫记",
+    "link": "https://iymark.com",
+    "avatar": "https://oss.iymark.com/member/avatars/238a0b923820dcc5.1600319348.jpg!/format/webp",
+    "des": "分享记录生活点滴"
   }
 ]
